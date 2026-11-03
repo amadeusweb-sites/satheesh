@@ -2,7 +2,7 @@
 variables([
 	VARLinkToSectionHome => true,
 	VAREmail => 'satz87.dawn@gmail.com',
-	VARPhone => $ph = '+91-',
+	VARPhone => $ph = '+91-79040-84479',
 	VARWhatsapp => whatsapp_clean($ph),
 ]);
 
